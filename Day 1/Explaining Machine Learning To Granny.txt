@@ -1,0 +1,16 @@
+****Machine Learning****
+
+Hey Granny. I know you have been puzzled seeing all these AI, ML in the news. So I'll try to help you understand.
+
+If you remember the last time we visited you, you'd seen papa using his laptop computer. Have you noticed that papa has to direct the laptop to do things as a part of his job?
+
+Machine Learning is a concept that means a computer can do things on its own without anyone asking it. Yes that will mean that all appliances like phone, computer, TV and all such machines can run on its own (and be grownup just like your son!)
+
+This machine learning is a part of another idea called artificial intelligence. Artificial intelligence is a broad name for any digital object to mimic humans while machine learning is a part of it.
+
+Machine learning traditionally is done in three ways.
+Supervised Learning: Here a person knows what to expect from the computer after giving it some information. The computer like a preschooler learns to take input, put it into labelled groups, on its own and give us an output. This is how papa gets a lot less junk mail on his computer.
+Unsupervised learning: Here, the computer like a degree student, is left to find answers on its own. It'll group similar-looking things together until it finds a pattern to get a result.
+Reinforcement Learning. Here, the computer is made to find the best result by trying again and again.
+
+I hope that you got a small idea of machine learning granny.
